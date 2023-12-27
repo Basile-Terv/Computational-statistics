@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 **/*scrap*
+*.docx
 __pycache__/
 *.py[cod]
 *$py.class
